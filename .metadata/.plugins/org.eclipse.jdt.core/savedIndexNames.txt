@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\kaulsheetal\Documents\GitHub\crackingJava\.metadata\.plugins\org.eclipse.jdt.core
+2348113578.index
